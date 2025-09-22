@@ -1,10 +1,5 @@
-a = 10
-b = 5
-
-if (a == b):
-    print("É igual? ", True)
-else:
-    print("É igual? ", False)
-if (a > b):
-    print("É maior? ", True)
-    print("É menor? ", False)
+a = 3
+b =2
+print("É igual? ", str(a == b))
+print("É maior? ", str(a > b))
+print("É menor? ", str(a < b))
