@@ -1,4 +1,4 @@
-def greeting(name: str="42") -> None:
+def greeting(name: str='42') -> None:
     """
     receives a name and prints a greeting
     """
